@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="problem" version="2" view="problem_complexity">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="problem" element="NULL" name="problem" parent="NULL" relationship="NULL" sys_domain="global" view="7bbe733f157212007f44d5a8b63e5f49">0aeeb33f157212007f44d5a8b63e5f8c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>Ed.Everything</sys_created_by>
+            <sys_created_on>2016-04-22 16:43:59</sys_created_on>
+            <sys_id>4eeeb33f157212007f44d5a8b63e5f8c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Ed.Everything</sys_updated_by>
+            <sys_updated_on>2016-04-22 16:43:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>x_problem_complexi_complexity</element>
+            <list_id display_value="problem" element="NULL" name="problem" parent="NULL" relationship="NULL" sys_domain="global" view="7bbe733f157212007f44d5a8b63e5f49">0aeeb33f157212007f44d5a8b63e5f8c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>Ed.Everything</sys_created_by>
+            <sys_created_on>2016-04-22 16:43:59</sys_created_on>
+            <sys_id>ceeeb33f157212007f44d5a8b63e5f8c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Ed.Everything</sys_updated_by>
+            <sys_updated_on>2016-04-22 16:43:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="problem" element="NULL" name="problem" parent="NULL" relationship="NULL" sys_domain="global" view="7bbe733f157212007f44d5a8b63e5f49">0aeeb33f157212007f44d5a8b63e5f8c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>Ed.Everything</sys_created_by>
+            <sys_created_on>2016-04-22 16:43:59</sys_created_on>
+            <sys_id>42eeb33f157212007f44d5a8b63e5f8d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Ed.Everything</sys_updated_by>
+            <sys_updated_on>2016-04-22 16:43:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="problem" element="NULL" name="problem" parent="NULL" relationship="NULL" sys_domain="global" view="7bbe733f157212007f44d5a8b63e5f49">0aeeb33f157212007f44d5a8b63e5f8c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>Ed.Everything</sys_created_by>
+            <sys_created_on>2016-04-22 16:43:59</sys_created_on>
+            <sys_id>c2eeb33f157212007f44d5a8b63e5f8d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Ed.Everything</sys_updated_by>
+            <sys_updated_on>2016-04-22 16:43:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assignment_group</element>
+            <list_id display_value="problem" element="NULL" name="problem" parent="NULL" relationship="NULL" sys_domain="global" view="7bbe733f157212007f44d5a8b63e5f49">0aeeb33f157212007f44d5a8b63e5f8c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>Ed.Everything</sys_created_by>
+            <sys_created_on>2016-04-22 16:43:59</sys_created_on>
+            <sys_id>46eeb33f157212007f44d5a8b63e5f8d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Ed.Everything</sys_updated_by>
+            <sys_updated_on>2016-04-22 16:43:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="problem" element="NULL" name="problem" parent="NULL" relationship="NULL" sys_domain="global" view="7bbe733f157212007f44d5a8b63e5f49">0aeeb33f157212007f44d5a8b63e5f8c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>Ed.Everything</sys_created_by>
+            <sys_created_on>2016-04-22 16:43:59</sys_created_on>
+            <sys_id>c6eeb33f157212007f44d5a8b63e5f8d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Ed.Everything</sys_updated_by>
+            <sys_updated_on>2016-04-22 16:43:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>cmdb_ci</element>
+            <list_id display_value="problem" element="NULL" name="problem" parent="NULL" relationship="NULL" sys_domain="global" view="7bbe733f157212007f44d5a8b63e5f49">0aeeb33f157212007f44d5a8b63e5f8c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>Ed.Everything</sys_created_by>
+            <sys_created_on>2016-04-22 16:43:59</sys_created_on>
+            <sys_id>4aeeb33f157212007f44d5a8b63e5f8d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Ed.Everything</sys_updated_by>
+            <sys_updated_on>2016-04-22 16:43:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>related_incidents</element>
+            <list_id display_value="problem" element="NULL" name="problem" parent="NULL" relationship="NULL" sys_domain="global" view="7bbe733f157212007f44d5a8b63e5f49">0aeeb33f157212007f44d5a8b63e5f8c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>Ed.Everything</sys_created_by>
+            <sys_created_on>2016-04-22 16:43:59</sys_created_on>
+            <sys_id>caeeb33f157212007f44d5a8b63e5f8d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Ed.Everything</sys_updated_by>
+            <sys_updated_on>2016-04-22 16:43:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>problem</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>Ed.Everything</sys_created_by>
+            <sys_created_on>2016-04-22 16:43:59</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0aeeb33f157212007f44d5a8b63e5f8c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>problem</sys_name>
+            <sys_package display_value="Problem Complexity" source="x_problem_complexi">90fb73fb157212007f44d5a8b63e5f20</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Problem Complexity">90fb73fb157212007f44d5a8b63e5f20</sys_scope>
+            <sys_update_name>sys_ui_list_problem_problem_complexity</sys_update_name>
+            <sys_updated_by>Ed.Everything</sys_updated_by>
+            <sys_updated_on>2016-04-22 16:43:59</sys_updated_on>
+            <sys_user/>
+            <view display_value="Problem Complexity" name="problem_complexity">7bbe733f157212007f44d5a8b63e5f49</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
